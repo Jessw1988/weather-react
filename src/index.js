@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import WeatherSearch from "./WeatherSearch";
 
-import "./styles.css";
+import "./index.css";
 
 function App() {
   return (
