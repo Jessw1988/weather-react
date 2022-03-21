@@ -12,10 +12,6 @@ function App() {
     </div>
   );
 }
-<small>
-  <a href="https://github.com/Jessw1988/weather-react"> Open-sourced code </a>{" "}
-  by Jessica Wolski
-</small>;
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
